@@ -2,8 +2,10 @@
 ### COMP 469 Artificial Intelligence + COMP 565 Advanced Computer Graphics  
 ### CSUN Spring 2018
 •	Final project for both Advanced Computer Graphics and Artificial Intelligence courses.  
-•	A complete prototype level built with Unreal Engine’s FPS template. Supports both first-person and third-person perspectives and implements standard controls and shooting mechanics. The enemy AI incorporates target points for following patrol routes and AI perception for recognizing and engaging the player.  
-•	Designed using Infinity Blade: Grasslands and default Unreal 3D models. The theme is a desolate fortress, ambiguously ravaged over time, which has become the base for artificially intelligent beings. 
+•	A complete prototype level built with Unreal Engine’s FPS template.  
+•	Supports both first-person and third-person perspectives and implements standard controls and shooting mechanics.  
+•	The enemy AI incorporates target points for following patrol routes and AI perception for recognizing and engaging the player. Enemy AI and player share similar controlling and animations.  
+•	Designed using Infinity Blade: Grasslands and default Unreal 3D models. The theme is a desolate fortress, ambiguously ravaged over time, which has become the base for artificially intelligent beings.  
 ## Images
 ### First Person
 <a href="https://drive.google.com/uc?export=view&id=1jg7muArHGFjFLIZsUHFWNB2-kl-anded"><img src="https://drive.google.com/uc?export=view&id=1jg7muArHGFjFLIZsUHFWNB2-kl-anded" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
